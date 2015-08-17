@@ -167,4 +167,7 @@
 
     <string name="screenshot_error_title">Screenshot invalid</string>
     <string name="screenrecord_error_title">Screen record invalid</string>
+
+    <!-- Volume panel QS tile -->
+    <string name="quick_settings_volume_panel_label">Volume panel</string>
 </resources>
